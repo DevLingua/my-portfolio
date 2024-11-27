@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/DevLingua/My-Personal-Portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/DevLingua/My-Personal-Portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/DevLingua/My-Personal-Portfolio?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/DevLingua/my-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/DevLingua/my-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/DevLingua/my-portfolio?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/devlinguaa?style=social)](https://twitter.com/intent/follow?screen_name=devlinguaa)
 
   <br />
