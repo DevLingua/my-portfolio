@@ -12,7 +12,7 @@
 
   My Personal Portfolio is a fully responsive website showcasing my work, skills, and contact information. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://devlingua.github.io/My-Personal-Portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://devlingua.github.io/my-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
